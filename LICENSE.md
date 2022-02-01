@@ -13,6 +13,7 @@ may choose to release their code under the more permissive [MIT License](license
 The authors listed below have chosen to release their code under that more permissive
 [MIT License](licenses/MIT.md). Any contributor who wants their name added below
 should submit a pull request to this project to add their name.
+kingod
 
 ```text
 Zach Brown <zach.brown@destroystokyo.com>
